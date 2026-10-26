@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "mvf889sv594id8",
+    "title": "FitTrack Member Club Mobile Companion",
+    "slug": "fittrack-member-companion",
+    "category": "Mobile Apps",
+    "projectType": "Prototype Showcase",
+    "shortDescription": "Member attendance, workout schedules, and class reservations on mobile devices.",
+    "fullDescription": "A gym and fitness club app demonstration showing personal schedule cards, QR code entry passes, and class booking with notification reminders.",
+    "image": "/images/portfolio/fittrack-mobile.svg",
+    "technologies": [
+      "Mobile UI Framework",
+      "REST API",
+      "Express.js",
+      "Token Auth"
+    ],
+    "features": [
+      "Digital QR check-in",
+      "Class reservation with 1-tap cancel",
+      "Trainer direct chat",
+      "Weekly progress metrics"
+    ],
+    "clientChallenge": "Fitness centers experience high front-desk congestion and manual class sign-up friction.",
+    "deliveredSolution": "Created an effortless member self-service mobile flow that reduces front-desk workload.",
+    "order": 6,
+    "isPublished": true,
+    "createdAt": "2026-10-19T12:24:38.048Z"
+  },
+  {
+    "_id": "mvf889suuog4fu",
+    "title": "NovaHealth Patient Care Web Portal",
+    "slug": "novahealth-care-portal",
+    "category": "Websites",
+    "projectType": "Concept Demonstration",
+    "shortDescription": "Accessible healthcare clinic portal with doctor availability, health tips, and appointment requests.",
+    "fullDescription": "Demonstration of an accessible, bright, patient-friendly portal designed with soft peach and ivory accents, large readable text, and simple appointment enquiry forms.",
+    "image": "/images/portfolio/novahealth-portal.svg",
+    "technologies": [
+      "React.js",
+      "Express",
+      "Accessible WCAG 2.1 UI",
+      "Mongoose"
+    ],
+    "features": [
+      "High-contrast readable typography",
+      "Doctor schedule checker",
+      "Secure contact forms",
+      "Mobile patient view"
+    ],
+    "clientChallenge": "Patients get frustrated by confusing healthcare websites with buried phone numbers and difficult appointment booking.",
+    "deliveredSolution": "Designed a calming, clear layout with immediate contact options and clean doctor profiles.",
+    "order": 5,
+    "isPublished": true,
+    "createdAt": "2026-10-19T12:24:38.046Z"
+  },
+  {
+    "_id": "mvf889sseuywyo",
+    "title": "AutoLead Flow: Multi-Channel Lead Pipeline",
+    "slug": "autolead-flow-automation",
+    "category": "Automation",
+    "projectType": "Concept Demonstration",
+    "shortDescription": "Automated workflow connecting website forms, instant WhatsApp alerts, and spreadsheet lead tracking.",
+    "fullDescription": "Demonstrates a complete business automation sequence: Website Enquiry → Instant Telegram/WhatsApp Notification → CRM Record → Scheduled 24h Follow-up Email.",
+    "image": "/images/portfolio/autolead-workflow.svg",
+    "technologies": [
+      "Webhooks",
+      "Express API",
+      "Node.js",
+      "Google Sheets API",
+      "WhatsApp Business Webhook"
+    ],
+    "features": [
+      "Instant 5-second lead alerts",
+      "Zero manual data entry",
+      "Automatic duplicate detection",
+      "Weekly executive summaries"
+    ],
+    "clientChallenge": "Sales teams often respond 12 to 24 hours after a lead submits a form, drastically reducing conversion probability.",
+    "deliveredSolution": "Built a real-time webhook pipeline that delivers lead details to the sales team phone in under 5 seconds.",
+    "order": 4,
+    "isPublished": true,
+    "createdAt": "2026-10-19T12:24:38.044Z"
+  },
+  {
+    "_id": "mvf889sqlzssrl",
+    "title": "Apex Consulting SEO & Inbound Engine",
+    "slug": "apex-consulting-seo-engine",
+    "category": "Marketing",
+    "projectType": "Concept Demonstration",
+    "shortDescription": "Content and search positioning blueprint demonstrating organic visibility growth for professional service firms.",
+    "fullDescription": "A structured digital marketing demonstration showing how targeted keyword research, structured data schemas, and thought-leadership articles attract qualified corporate enquiries.",
+    "image": "/images/portfolio/apex-marketing.svg",
+    "technologies": [
+      "Technical SEO",
+      "Schema Markup",
+      "Analytics Dashboard",
+      "Content Strategy"
+    ],
+    "features": [
+      "Keyword intent mapping",
+      "Search snippets optimization",
+      "Audience engagement tracking",
+      "Conversion heatmaps"
+    ],
+    "clientChallenge": "Professional advisory firms struggle to explain technical expertise without sounding overly dense.",
+    "deliveredSolution": "Structured plain-language knowledge guides with prominent lead enquiry prompts and search optimization.",
+    "order": 3,
+    "isPublished": true,
+    "createdAt": "2026-10-19T12:24:38.042Z"
+  },
+  {
+    "_id": "mvf889so4fqycm",
+    "title": "UrbanBite Table Booking & Menu App",
+    "slug": "urbanbite-table-booking-app",
+    "category": "Mobile Apps",
+    "projectType": "Prototype Showcase",
+    "shortDescription": "Intuitive smartphone reservation and digital menu application for dining venues.",
+    "fullDescription": "An interactive mobile app prototype demonstrating real-time table availability, digital menu browsing with dietary filters, and direct WhatsApp booking confirmation.",
+    "image": "/images/portfolio/urbanbite-app.svg",
+    "technologies": [
+      "React Native / Mobile UI",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "features": [
+      "Real-time slot picker",
+      "Visual food photo previews",
+      "One-tap booking confirmation",
+      "Automated SMS alerts"
+    ],
+    "clientChallenge": "Restaurants lose walk-in and phone bookings when the staff is busy serving tables during peak hours.",
+    "deliveredSolution": "A simple 3-tap mobile reservation flow that sends instant customer reminders and keeps table sheets synchronized.",
+    "order": 2,
+    "isPublished": true,
+    "createdAt": "2026-10-19T12:24:38.040Z"
+  },
+  {
+    "_id": "mvf889smco4uao",
+    "title": "Lumina Boutique eCommerce Experience",
+    "slug": "lumina-boutique-ecommerce",
+    "category": "Websites",
+    "projectType": "Concept Demonstration",
+    "shortDescription": "Modern, airy lifestyle storefront featuring instant search, mobile checkout, and high-performance product storytelling.",
+    "fullDescription": "A demonstration of an accessible e-commerce experience designed for retail brands. It focuses on large visuals, lightning-fast product filtering, and a 2-step checkout flow built with clean React components.",
+    "image": "/images/portfolio/lumina-ecommerce.svg",
+    "technologies": [
+      "React.js",
+      "Node.js",
+      "REST API",
+      "Modern CSS",
+      "Stripe Integration"
+    ],
+    "features": [
+      "Lightning fast product filter",
+      "Mobile-first cart drawer",
+      "Dynamic inventory indicators",
+      "Accessible checkout"
+    ],
+    "clientChallenge": "Traditional shop templates are heavy, cluttered with popups, and slow on 4G mobile devices.",
+    "deliveredSolution": "Crafted an airy, minimalist store architecture with responsive images and instant category filtering.",
+    "order": 1,
+    "isPublished": true,
+    "createdAt": "2026-10-19T12:24:38.038Z"
+  }
+]

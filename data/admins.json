@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "mvf889sd4x3l6z",
+    "username": "pheunix_admin",
+    "email": "admin@pheunix.com",
+    "password": "$2b$10$hedDuvSET61z9YaTF7OBc.a05Wo81kYjOZlF1yBtCm1.VUiSaM.7O",
+    "role": "superadmin",
+    "createdAt": "2026-10-19T12:24:38.028Z"
+  }
+]

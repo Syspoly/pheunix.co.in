@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "mvf889uv6xmr3n",
+    "key": "cta_description",
+    "value": "Tell us what you want to build, improve or simplify. We will help you explore a suitable digital approach for your business.",
+    "group": "cta",
+    "createdAt": "2026-10-19T12:24:38.119Z"
+  },
+  {
+    "_id": "mvf889unxq2ujp",
+    "key": "cta_heading",
+    "value": "Have an Idea? Let’s Make It Happen.",
+    "group": "cta",
+    "createdAt": "2026-10-19T12:24:38.111Z"
+  },
+  {
+    "_id": "mvf889ueub67aa",
+    "key": "company_address",
+    "value": "Creative Tech Studio, India",
+    "group": "contact",
+    "createdAt": "2026-10-19T12:24:38.102Z"
+  },
+  {
+    "_id": "mvf889u5922vzf",
+    "key": "company_email",
+    "value": "connect@pheunix.com",
+    "group": "contact",
+    "createdAt": "2026-10-19T12:24:38.093Z"
+  },
+  {
+    "_id": "mvf889twwfibui",
+    "key": "company_phone",
+    "value": "+91 98285 57487",
+    "group": "contact",
+    "createdAt": "2026-10-19T12:24:38.084Z"
+  },
+  {
+    "_id": "mvf889tn2h3a7a",
+    "key": "company_tagline",
+    "value": "We Serve Few Uniques",
+    "group": "brand",
+    "createdAt": "2026-10-19T12:24:38.075Z"
+  },
+  {
+    "_id": "mvf889tfmu2ap9",
+    "key": "hero_subheading",
+    "value": "At PHEUNIX, we help businesses build a strong digital presence, connect with customers, simplify everyday work and turn ideas into practical digital solutions.",
+    "group": "hero",
+    "createdAt": "2026-10-19T12:24:38.067Z"
+  },
+  {
+    "_id": "mvf889t5bsoibx",
+    "key": "hero_heading",
+    "value": "Big Ideas. Smart Technology. Real Business Possibilities.",
+    "group": "hero",
+    "createdAt": "2026-10-19T12:24:38.057Z"
+  },
+  {
+    "_id": "mvf889swnicz7u",
+    "key": "hero_label",
+    "value": "CREATIVE TECHNOLOGY & DIGITAL SOLUTIONS",
+    "group": "hero",
+    "createdAt": "2026-10-19T12:24:38.048Z"
+  }
+]

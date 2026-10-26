@@ -1,0 +1,59 @@
+[
+  {
+    "_id": "mvf926u3twukld",
+    "fullName": "Test Business Owner",
+    "email": "owner@testbusiness.com",
+    "phone": "+91 99887 76655",
+    "businessName": "Test Co",
+    "industry": "Retail and E-commerce",
+    "serviceRequired": "Website Development",
+    "estimatedBudget": "Flexible",
+    "projectDescription": "We need a clean website for our retail brand with online catalogue.",
+    "preferredContactMethod": "Email",
+    "consent": true,
+    "status": "New",
+    "internalNotes": [],
+    "ipAddress": "::1",
+    "createdAt": "2026-10-19T12:47:53.883Z"
+  },
+  {
+    "_id": "mvf889ux11nk67",
+    "fullName": "Pooja Verma",
+    "email": "pooja.verma@example.com",
+    "phone": "+91 98234 56789",
+    "businessName": "Verma Dental & Wellness Clinic",
+    "industry": "Professional Services",
+    "serviceRequired": "Business Automation",
+    "estimatedBudget": "Under ₹50,000",
+    "projectDescription": "We need automated appointment confirmations and reminder messages sent to patients on WhatsApp 2 hours before their scheduled clinic visit.",
+    "preferredContactMethod": "Phone",
+    "consent": true,
+    "status": "In Discussion",
+    "internalNotes": [
+      {
+        "note": "Spoke with Dr. Pooja; requested a workflow diagram for clinic timings.",
+        "author": "pheunix_admin",
+        "createdAt": "2026-10-19T11:24:38.119Z"
+      }
+    ],
+    "ipAddress": "127.0.0.1",
+    "createdAt": "2026-10-18T12:24:38.119Z"
+  },
+  {
+    "_id": "mvf889uwm9myml",
+    "fullName": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "phone": "+91 98765 43210",
+    "businessName": "Sharma Heritage Handicrafts",
+    "industry": "Retail and E-commerce",
+    "serviceRequired": "Website Development",
+    "estimatedBudget": "Flexible",
+    "projectDescription": "We are looking to build a clean, modern online store to showcase our handcrafted wooden decor items to customers across India and abroad.",
+    "preferredContactMethod": "Email",
+    "consent": true,
+    "status": "New",
+    "internalNotes": [],
+    "ipAddress": "127.0.0.1",
+    "createdAt": "2026-10-19T10:24:38.119Z"
+  }
+]
